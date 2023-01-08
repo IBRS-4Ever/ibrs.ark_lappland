@@ -1,0 +1,14 @@
+{
+  "Title": "Arknights Lappland",
+  "Type": "content",
+  "Org": "ibrs",
+  "Ident": "ark_lappland",
+  "Tags": "arknights anime",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {}
+}

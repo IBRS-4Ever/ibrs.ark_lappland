@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model/lappland/arknights/clancy/face"
+	"$ambientocclusion" "0"
+	"$nodecal" "1"
+	"$halfember" "1"
+	"$alphatest" "1"
+
+	"$lightwarptexture" "model\lappland\arknights\clancy\cartoon_shader"
+
+                "$phong" "1"
+                "$phongboost" "0.7"
+                "$phongexponent" "5"
+	"$phongexponenttexture" "model\lappland\arknights\clancy\phong_exp"
+                "$phongfresnelranges"	"[0 0.5 1]"
+}

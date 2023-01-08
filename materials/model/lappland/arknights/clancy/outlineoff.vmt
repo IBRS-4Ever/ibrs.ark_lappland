@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model\lappland\arknights\clancy\outline"
+	$no_draw 1
+}

@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model/lappland/arknights/clancy/shortsleeve"
+	"$ambientocclusion" "0"
+	"$model" "1"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$normalmapalphaphongmask"	"1"
+	"$halflambert" "1"
+
+	"$lightwarptexture" "model\lappland\arknights\clancy\cartoon_shader"
+
+                "$phong" "1"
+                "$phongboost" "0.7"
+                "$phongexponent" "5"
+	"$phongexponenttexture" "model\lappland\arknights\clancy\phong_exp"
+                "$phongfresnelranges"	"[0 0.5 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Arknights Lappland",
+      "Type": "model",
+      "Org": "ibrs",
+      "Ident": "ark_lappland",
+      "Tags": "arknights anime",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/lappland.vmdl",
+        "Summary": "Lappland from Arknights.",
+        "Description": "Lappland from Arknights. Creator: Clamcy",
+        "Public": true,
+        "ReplaceTags": "arknights anime"
+      }
+    }
+  }
+}
