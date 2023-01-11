@@ -1,2 +1,4 @@
 # ibrs.ark_lappland
- Lappland from Arknights.
+Lappland from Arknights.
+
+Creator: Clamcy
